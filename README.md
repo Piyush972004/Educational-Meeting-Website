@@ -3,7 +3,7 @@
 A responsive and visually engaging website designed to promote and manage educational meetings, courses, and events. This static web project includes multiple pages like home, meeting details, and a meeting listing, making it perfect for academic institutions, training providers, or conference organizers.
 
 ## 🌐 Live Preview
-[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://devnoms.onrender.com)
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)]( https://piyush972004.github.io/Educational-Meeting-Website/)
 
 ---
 
